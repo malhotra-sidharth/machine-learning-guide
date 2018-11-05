@@ -9,6 +9,8 @@
         - [1.0.1.1.2. Videos](#10112-videos)
       - [1.0.1.2. Recurrent Neural Networks](#1012-recurrent-neural-networks)
         - [1.0.1.2.1. Articles](#10121-articles)
+      - [1.0.1.3. Backpropagation](#1013-backpropagation)
+        - [1.0.1.3.1. Articles](#10131-articles)
 
 <!-- /TOC -->
 
@@ -23,4 +25,8 @@
 #### 1.0.1.2. Recurrent Neural Networks
 ##### 1.0.1.2.1. Articles
   - [Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks](https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neural-networks/)
+
+#### 1.0.1.3. Backpropagation
+##### 1.0.1.3.1. Articles
+  - [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
