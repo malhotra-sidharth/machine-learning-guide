@@ -1,3 +1,4 @@
+![alt text](assets/cover.png "Machine Learning Guide")
 # 1. Machine Learning Guide
 <!-- TOC -->
 
