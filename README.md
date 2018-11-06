@@ -12,6 +12,8 @@
         - [1.0.1.2.2. Videos](#10122-videos)
       - [1.0.1.3. Backpropagation](#1013-backpropagation)
         - [1.0.1.3.1. Articles](#10131-articles)
+      - [1.0.1.4. Pricipal Component Analysis (PCA)](#1014-pricipal-component-analysis-pca)
+        - [1.0.1.4.1. Videos](#10141-videos)
 
 <!-- /TOC -->
 
@@ -34,4 +36,9 @@
 #### 1.0.1.3. Backpropagation
 ##### 1.0.1.3.1. Articles
   - [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
+#### 1.0.1.4. Pricipal Component Analysis (PCA)
+##### 1.0.1.4.1. Videos
+  - [StatQuest: Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0)
+  - [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
