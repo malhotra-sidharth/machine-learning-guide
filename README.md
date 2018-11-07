@@ -55,3 +55,4 @@
 #### Expectation Maximization
 ##### Videos
 - [EM algorithm: how it works](https://www.youtube.com/watch?v=REypj2sy_5U)
+- [Expectation Maximization: how it works](https://www.youtube.com/watch?v=iQoXFmbXRJA)
