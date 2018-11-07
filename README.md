@@ -14,6 +14,8 @@
         - [1.0.1.3.1. Articles](#10131-articles)
       - [1.0.1.4. Pricipal Component Analysis (PCA)](#1014-pricipal-component-analysis-pca)
         - [1.0.1.4.1. Videos](#10141-videos)
+      - [1.0.1.5. Matrix Factorization](#1015-matrix-factorization)
+        - [1.0.1.5.1. Videos](#10151-videos)
 
 <!-- /TOC -->
 
@@ -42,3 +44,6 @@
   - [StatQuest: Principal Component Analysis (PCA) clearly explained (2015)](https://www.youtube.com/watch?v=_UVHneBUBW0)
   - [StatQuest: Principal Component Analysis (PCA), Step-by-Step](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 
+#### 1.0.1.5. Matrix Factorization
+##### 1.0.1.5.1. Videos
+  - [How does Netflix recommend movies? Matrix Factorization](https://www.youtube.com/watch?v=ZspR5PZemcs)
