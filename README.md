@@ -1,31 +1,16 @@
 ![alt text](assets/cover.png "Machine Learning Guide")
 # Machine Learning Guide
-<!-- TOC -->
-
-- [Machine Learning Guide](#machine-learning-guide)
-    - [Neural Networks](#neural-networks)
-      - [Convolutional Neural Networks](#convolutional-neural-networks)
-        - [Articles](#articles)
-        - [Videos](#videos)
-      - [Recurrent Neural Networks](#recurrent-neural-networks)
-        - [Articles](#articles-1)
-        - [Videos](#videos-1)
-      - [Backpropagation](#backpropagation)
-        - [Articles](#articles-2)
-  - [Unsupervised Learning](#unsupervised-learning)
-      - [Pricipal Component Analysis (PCA)](#pricipal-component-analysis-pca)
-        - [Videos](#videos-2)
-      - [Matrix Factorization](#matrix-factorization)
-        - [Videos](#videos-3)
-      - [Expectation Maximization](#expectation-maximization)
-        - [Videos](#videos-4)
-
-<!-- /TOC -->
 
 ### Neural Networks
+
+#### Gradient Descent
+##### Articles
+  - [Difference between Batch Gradient Descent and Stochastic Gradient Descent](https://towardsdatascience.com/difference-between-batch-gradient-descent-and-stochastic-gradient-descent-1187f1291aa1)
 #### Convolutional Neural Networks
 ##### Articles
   - [Architecture of Convolutional Neural Networks (CNNs) demystified](https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/)
+  - [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+
 
 ##### Videos
   - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
